@@ -16,7 +16,7 @@ public class ApiClient {
         Retrofit retrofit = new Retrofit.Builder()
                 .addConverterFactory(GsonConverterFactory.create())
 //        https://tanya-ps278.et.r.appspot.com/
-                .baseUrl("https://tanya-heroku.herokuapp.com/tanya/")
+                .baseUrl("https://tanya-ps278.et.r.appspot.com/tanya/")
                 .client(okHttpClient)
                 .build();
         return retrofit;
