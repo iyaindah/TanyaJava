@@ -80,7 +80,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="24dp"
             android:layout_marginRight="24dp"
-            android:gravity="center"
+            android:gravity="start"
             android:orientation="horizontal"
             android:padding="10dp"
             android:background="@color/colorWhite"
@@ -99,12 +99,15 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Koridor"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/montserrat"
                 android:textSize="20dp"/>
 
             <Spinner
                 android:id="@+id/spinner_koridor"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
                 android:layout_marginLeft="80dp"/>
 
         </LinearLayout>
@@ -113,7 +116,7 @@
             android:id="@+id/layout_seat"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="center"
+            android:gravity="start"
             android:layout_marginLeft="24dp"
             android:layout_marginRight="24dp"
             android:orientation="horizontal"
@@ -127,19 +130,22 @@
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginRight="50dp"
+                android:layout_marginRight="60dp"
                 android:src="@drawable/img_seat" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Seat"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/montserrat"
                 android:textSize="20dp"/>
 
             <Spinner
                 android:id="@+id/spinner_seat"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
                 android:layout_marginLeft="110dp"/>
 
         </LinearLayout>
@@ -169,6 +175,7 @@
                 android:layout_height="wrap_content"
                 android:text="Cash Payment"
                 android:layout_marginLeft="30dp"
+                android:fontFamily="@font/montserrat"
                 android:layout_marginTop="10dp"
                 android:textSize="20dp"/>
 
@@ -176,7 +183,7 @@
                 android:id="@+id/spinner_payment"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="55dp"
+                android:layout_marginLeft="45dp"
                 android:layout_marginTop="10dp"/>
 
         </LinearLayout>

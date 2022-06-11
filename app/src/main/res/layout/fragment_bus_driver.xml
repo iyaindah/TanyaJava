@@ -73,14 +73,16 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Bus Id-Route : 0021 - Koridor 1"
-            android:textSize="20dp"/>
+            android:text="Bus Id-Route        : 0021 - Koridor 1"
+            android:fontFamily="@font/montserrat"
+            android:textSize="15dp"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat"
             android:text="Current Location : Halte KA1"
-            android:textSize="20dp"/>
+            android:textSize="15dp"/>
 
 
     </LinearLayout>

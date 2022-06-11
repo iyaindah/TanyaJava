@@ -22,6 +22,35 @@
         <entry key="..\:/AndroidApps/TanyaJava/app/src/main/res/layout/fragment_ticket.xml" value="0.17806484295845998" />
         <entry key="..\:/AndroidApps/TanyaJava/app/src/main/res/layout/koridor_layout.xml" value="0.17806484295845998" />
         <entry key="..\:/AndroidApps/TanyaJava/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/drawable/radius_primary.xml" value="0.239" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/drawable/radius_search.xml" value="0.239" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/drawable/radius_secondary.xml" value="0.239" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/drawable/radius_third.xml" value="0.239" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/activity_driver_predict.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/activity_login_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/activity_login_passanger.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/activity_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/activity_menu_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/activity_select_type_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/activity_sign_up_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_account.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_account_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_barcode_passenger.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_bus_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_buy_with_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_checkout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_explore.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_koridor1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_koridor2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_success_scan.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_ticket.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_ticket_driver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_ticket_driver_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/fragment_verify.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/koridor_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Tanya Apps/TanyaJava/app/src/main/res/layout/radius_third.xml" value="0.36666666666666664" />
         <entry key="..\:/projectBangkit/TanyaJava/TanyaJava/app/src/main/res/drawable-v24/radius_grey.xml" value="0.1" />
         <entry key="..\:/projectBangkit/TanyaJava/TanyaJava/app/src/main/res/drawable/background_primary.xml" value="0.26" />
         <entry key="..\:/projectBangkit/TanyaJava/TanyaJava/app/src/main/res/drawable/button_activity.xml" value="0.2215" />

@@ -80,7 +80,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="24dp"
             android:layout_marginRight="24dp"
-            android:gravity="center"
+            android:gravity="start"
             android:orientation="horizontal"
             android:padding="10dp"
             android:background="@drawable/radius_grey"
@@ -92,18 +92,21 @@
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="5dp"
                 android:src="@drawable/img_bus_koridor" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text=" Koridor 1 | Bawen - Tawang"
+                android:fontFamily="@font/montserrat"
+                android:layout_marginTop="10dp"
                 android:textSize="15dp"/>
 
             <Spinner
                 android:id="@+id/spinner_koridor"
                 android:layout_width="wrap_content"
+                android:layout_marginTop="10dp"
                 android:layout_height="wrap_content"/>
 
         </LinearLayout>
@@ -133,6 +136,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="1"
+                android:fontFamily="@font/montserrat"
                 android:layout_marginTop="10dp"
                 android:layout_marginLeft="90dp"
                 android:textSize="20dp"/>

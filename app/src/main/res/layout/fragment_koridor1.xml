@@ -92,11 +92,13 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Koridor 1"
+                    android:fontFamily="@font/montserrat"
                     android:textSize="15dp"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:fontFamily="@font/montserrat"
                     android:text="Bawen - Semarang"
                     android:textSize="15dp"/>
 
@@ -133,6 +135,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Halte KA 1"
+                android:fontFamily="@font/montserrat"
                 android:textSize="12dp"/>
 
             <LinearLayout
@@ -144,6 +147,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Status Passenger :"
+                    android:fontFamily="@font/montserrat"
                     android:layout_marginTop="13dp"
                     android:layout_marginLeft="20dp"
                     android:textSize="12dp"/>
@@ -179,6 +183,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="65dp"
                 android:layout_marginRight="10dp"
+                android:fontFamily="@font/montserrat"
                 android:src="@drawable/img_garis"/>
 
             <LinearLayout
@@ -192,20 +197,24 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Halte KA 2"
+                    android:fontFamily="@font/montserrat"
                     android:textSize="12dp"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:fontFamily="@font/montserrat"
                     android:text="Halte KA 3"
                     android:textSize="12dp"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:fontFamily="@font/montserrat"
                     android:text="Halte KA 4"
                     android:textSize="12dp"/>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:fontFamily="@font/montserrat"
                     android:text="Halte KA 5"
                     android:textSize="12dp"/>
 
@@ -249,14 +258,13 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Padat"
+                    android:fontFamily="@font/montserrat"
                     android:textSize="12dp"/>
             </LinearLayout>
 
         </LinearLayout>
 
     </LinearLayout>
-
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -43,15 +43,18 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
+                android:fontFamily="@font/montserrat"
                 android:text="Koridor 1 : Bawen - Tawang"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
+                android:fontFamily="@font/montserrat"
                 android:text="Ticket : 2"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat"
                 android:textAlignment="center"
                 android:text="Monday 13 April 2022, 13.30"/>
 

@@ -87,12 +87,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Koridor 1"
+                android:fontFamily="@font/montserrat"
                 android:textSize="15dp"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Bawen - Semarang"
+                android:fontFamily="@font/montserrat"
                 android:textSize="15dp"/>
 
         </LinearLayout>
@@ -141,12 +143,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Koridor 2"
+                android:fontFamily="@font/montserrat"
                 android:textSize="15dp"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Bawen - Semarang"
+                android:fontFamily="@font/montserrat"
                 android:textSize="15dp"/>
 
         </LinearLayout>
